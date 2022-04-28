@@ -1,5 +1,5 @@
-const { args: [name] } = Deno
+// const { args: [name] } = Deno
 
 export const myFirst = () => {
-    console.log(name)
+    console.log('hello')
 }
