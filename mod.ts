@@ -1,4 +1,5 @@
 const { args: [name] } = Deno
 
-console.log(name)
-
+export const myFirst = () => {
+    console.log(name)
+}
