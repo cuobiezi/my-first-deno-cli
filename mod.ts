@@ -1,5 +1,5 @@
 // const { args: [name] } = Deno
 
-export const myFirst = () => {
+export default () => {
     console.log('hello')
 }
