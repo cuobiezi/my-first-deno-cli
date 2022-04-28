@@ -1,4 +1,4 @@
-const { args: [name] } = Deno;
+const { args: [name] } = Deno
 
-console.log(name);
+console.log(name)
 
